@@ -19,4 +19,3 @@ for ((i=1;i<=$process;i++))
 do
   $atk_cmd >/dev/null &
   sleep 0.1
-done
